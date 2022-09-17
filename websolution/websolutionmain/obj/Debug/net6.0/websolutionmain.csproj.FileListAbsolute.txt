@@ -1,0 +1,14 @@
+E:\visual_studio\websolution\websolutionmain\bin\Debug\net6.0\websolutionmain.deps.json
+E:\visual_studio\websolution\websolutionmain\bin\Debug\net6.0\websolutionmain.dll
+E:\visual_studio\websolution\websolutionmain\bin\Debug\net6.0\websolutionmain.pdb
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.csproj.AssemblyReference.cache
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.AssemblyInfoInputs.cache
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.AssemblyInfo.cs
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.csproj.CoreCompileInputs.cache
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.dll
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\refint\websolutionmain.dll
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.pdb
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\ref\websolutionmain.dll
+E:\visual_studio\websolution\websolutionmain\bin\Debug\net6.0\websolutionmain.runtimeconfig.json
+E:\visual_studio\websolution\websolutionmain\obj\Debug\net6.0\websolutionmain.genruntimeconfig.cache
